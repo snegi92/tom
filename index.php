@@ -2,6 +2,7 @@
 //default page layout
 get_header();
 ?>
+sdfsdfsdfsdfsdfsdfsdf
 <?php get_template_part( 'template-parts/banner', null, [
   'image'=> get_bloginfo( 'template_url' ).'/images/news-banner.webp'
 ] ); ?>
